@@ -1,6 +1,6 @@
 package Alejandrorodram.JavaEjercicios.Udemy.SimpleMethods;
 
-public class isLeapYear {
+public class IsLeapYear {
     public static boolean LeapYear(int year) {
         if (year < 1 || year > 9999) {
             return false;

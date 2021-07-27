@@ -1,6 +1,6 @@
-package Alejandrorodram.JavaEjercicios.Udemy;
+package Alejandrorodram.JavaEjercicios.Udemy.ControlFlowMethods;
 
-public class isPalindrome {
+public class IsPalindrome {
     public static void main(String[] args) {
         isPalindrome(101);
     }

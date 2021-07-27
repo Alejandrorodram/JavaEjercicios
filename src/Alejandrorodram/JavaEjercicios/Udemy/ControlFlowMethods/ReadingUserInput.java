@@ -1,4 +1,4 @@
-package Alejandrorodram.JavaEjercicios.Udemy;
+package Alejandrorodram.JavaEjercicios.Udemy.ControlFlowMethods;
 
 import java.util.Scanner;
 

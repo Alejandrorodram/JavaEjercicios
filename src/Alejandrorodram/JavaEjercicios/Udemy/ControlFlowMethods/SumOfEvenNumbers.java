@@ -1,6 +1,6 @@
-package Alejandrorodram.JavaEjercicios.Udemy;
+package Alejandrorodram.JavaEjercicios.Udemy.ControlFlowMethods;
 
-public class WhileLoopFindEvenNumbers {
+public class SumOfEvenNumbers {
     public static void main (String[] args){
         int number = 4;
         int finishNumber = 20;

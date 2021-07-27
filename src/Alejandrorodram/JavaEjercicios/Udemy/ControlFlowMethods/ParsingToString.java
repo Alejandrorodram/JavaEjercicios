@@ -1,5 +1,5 @@
-package Alejandrorodram.JavaEjercicios.Udemy;
-public class parsingToString {
+package Alejandrorodram.JavaEjercicios.Udemy.ControlFlowMethods;
+public class ParsingToString {
     public static void main(String[] args) {
         String numberAsString = "2018"; //if we add a latter it gives error because we can't use parseInt
         System.out.println("numberAsString = " + numberAsString);
