@@ -16,6 +16,7 @@ public class ReadingUserInput {
         System.out.println("Your name is " + name + ", and you are " + age + " years old.");
 
         scanner.close();
+        //
     }
 }
 
