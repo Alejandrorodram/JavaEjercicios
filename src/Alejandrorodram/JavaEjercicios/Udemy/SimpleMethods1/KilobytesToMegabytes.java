@@ -1,4 +1,4 @@
-package Alejandrorodram.JavaEjercicios.Udemy.SimpleMethods;
+package Alejandrorodram.JavaEjercicios.Udemy.SimpleMethods1;
 
 public class KilobytesToMegabytes {
     public static void printMegaBytesAndKiloBytes (int kiloBytes) {

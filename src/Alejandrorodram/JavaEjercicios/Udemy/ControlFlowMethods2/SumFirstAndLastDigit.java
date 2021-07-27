@@ -1,4 +1,4 @@
-package Alejandrorodram.JavaEjercicios.Udemy.ControlFlowMethods;
+package Alejandrorodram.JavaEjercicios.Udemy.ControlFlowMethods2;
 
 public class SumFirstAndLastDigit {
     //Method to find first and last digit passed to the method.

@@ -1,4 +1,4 @@
-package Alejandrorodram.JavaEjercicios.Udemy.ControlFlowMethods;
+package Alejandrorodram.JavaEjercicios.Udemy.ControlFlowMethods2;
 
 public class GreatestCommonDivisor {
     public static int getGreatestCommonDivisor(int first, int second) {

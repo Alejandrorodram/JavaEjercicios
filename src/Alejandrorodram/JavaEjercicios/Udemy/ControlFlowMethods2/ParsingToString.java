@@ -1,4 +1,4 @@
-package Alejandrorodram.JavaEjercicios.Udemy.ControlFlowMethods;
+package Alejandrorodram.JavaEjercicios.Udemy.ControlFlowMethods2;
 public class ParsingToString {
     public static void main(String[] args) {
         String numberAsString = "2018"; //if we add a latter it gives error because we can't use parseInt

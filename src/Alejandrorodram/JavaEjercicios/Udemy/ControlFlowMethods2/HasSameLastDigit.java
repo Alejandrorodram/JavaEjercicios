@@ -1,4 +1,4 @@
-package Alejandrorodram.JavaEjercicios.Udemy.ControlFlowMethods;
+package Alejandrorodram.JavaEjercicios.Udemy.ControlFlowMethods2;
 
 public class HasSameLastDigit {
     //pass 3 numbers to the method, they must be inside 10-1000 (both inclusive).
