@@ -21,7 +21,7 @@ public class KmToMiles {
         }
     }
     public static void main(String[] args) {
-        //example 50km to miles)
+        //example 50km to miles
         printConversion(50);
     }
 
